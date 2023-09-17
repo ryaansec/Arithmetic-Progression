@@ -23,13 +23,6 @@ int main() {
     printf("", figletwelcome);
 
 
-
-    /*int exitProgram = 0; // Variable to control program exit
-
-    starts:
-    while (!exitProgram) { // Main loop
-
-        // Main menu*/
         starts:
         printf("\nWhat operation do you want to perform?\n1. To form an AP\n2. To find a\n3. To find an\n4. To find d\n5. To find n\n6. Sum of nth number of terms\n7. Help\n8. Exit\n");
         scanf("%d", &operation);
